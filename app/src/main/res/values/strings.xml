@@ -1,3 +1,54 @@
 <resources>
     <string name="app_name">Cuecas_Bolivia</string>
+
+
+    <!-- menu activity -->
+    <string name="titulo">CUECAS DE BOLIVIA</string>
+    <string name="compartir">COMPARTIR</string>
+    <string name="menu__Inicio">INICIAR</string>
+    <string name="menu_idioma">Idioma</string>
+    <string name="menu_creditos">CREDITOS</string>
+    <string name="menu_salir">SALIR</string>
+
+    <string name="title_activity_creditos">creditos</string>
+
+    <!-- menu end-->
+    <string name="info1">cuecas de Bolivia</string>
+    <string name="info2">desarrolado por Alberth</string>
+    <string name="info3">my first app</string>
+
+    <!-- menu 2 activity -->
+    <string name="historia">HISTORIA</string>
+    <string name="partesCueca">PARTES DE LA CUECA</string>
+    <string name="musicaDepts">MUSICA</string>
+
+    <!-- BTN ATRAS-->
+    <string name="atras">ATRAS</string>
+    <string name="title_activity_splashscreen">Splashscreen</string>
+
+    <!-- DEPARTAMENTOS
+    la paz
+    cochabamba
+    oruro
+    chuquisaca
+    potosi
+    tarija
+    chaco
+    el alto
+    -->
+
+
+    <string name="main.dtoLaPaz.titulo">LA PAZ</string>
+    <string name="main.dtoCochabamba.titulo">COCHABAMBA</string>
+    <string name="main.dtoOruro.titulo">ORURO</string>
+    <string name="main.dtoChuquisaca.titulo">CHUQUISACA</string>
+    <string name="main.dtoPotosi.titulo">POTOSI</string>
+    <string name="main.dtoTarija.titulo">TARIJA</string>
+    <string name="main.dtoChaco.titulo">CHAQUENA</string>
+    <string name="main.dtoElAto.titulo">EL ALTO</string>
+
+
+    <string name="main.dtoLaPaz.subtitulo">cueca paceña</string>
+    <string name="main.dtoCochabamba.subtitulo">COCHABAMBA</string>
+
 </resources>
