@@ -37,7 +37,7 @@
     el alto
     -->
 
-
+    <!-- titulos -->
     <string name="main.dtoLaPaz.titulo">LA PAZ</string>
     <string name="main.dtoCochabamba.titulo">COCHABAMBA</string>
     <string name="main.dtoOruro.titulo">ORURO</string>
@@ -47,8 +47,18 @@
     <string name="main.dtoChaco.titulo">CHAQUENA</string>
     <string name="main.dtoElAto.titulo">EL ALTO</string>
 
+    <!-- sutitulos -->
 
     <string name="main.dtoLaPaz.subtitulo">cueca paceña</string>
     <string name="main.dtoCochabamba.subtitulo">COCHABAMBA</string>
+
+
+
+
+    <!-- detalles -->
+    
+    
+    <string name="main.dtoLaPaz.detalle">Adaptaciones Españolas, es copia de la cueca potosina, elegancia</string>
+    <string name="main.dtoCocha.detalle">Una de las más populares, sencillas y alegres, con pasos valseados, como tratando de tener una comunicación inicial. Donde la mujer provoca al varón, y la mujer a la vez es orgullosa.  </string>
 
 </resources>

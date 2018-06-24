@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Titulos">
+
+        <item>@string/main.dtoLaPaz.titulo</item>
+        <item>@string/main.dtoCochabamba.titulo</item>
+
+    </string-array>
+
+
+    <string-array name="subtitulos">
+        <item>@string/main.dtoLaPaz.subtitulo</item>
+        <item>@string/main.dtoCochabamba.subtitulo</item>
+
+    </string-array>
+
+    <string-array name="detalles">
+        <item>@string/main.dtoLaPaz.detalle</item>
+        <item>@string/main.dtoCocha.detalle</item>
+
+
+    </string-array>
+
+    <string-array name="images">
+
+        <item>@drawable/la_paz</item>
+        <item>@drawable/cocha</item>
+
+    </string-array>
+</resources>
